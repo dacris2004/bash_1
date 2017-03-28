@@ -11,6 +11,5 @@ do
         fi
         arr[$i]=$n
         i=$[$i+1]
-        echo -n $n\ \
+        echo -n $n\ \ 
 done
-
