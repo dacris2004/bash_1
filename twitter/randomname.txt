@@ -1,0 +1,28 @@
+                             Random Name Generator
+
+     * Generate random names
+     * Male first names
+     * Female first names
+     * Last names
+   The Random Name Generator is a simple fiction writing tool to create
+   character names. The generator contains English first and last names based
+   on the database of the US Census:
+     * 1219 male first names
+     * 4275 female first names
+     * 88799 last names
+     * over 480 million random names
+   IFrame
+
+                   [ ] 10                                                     
+   Number of names [ ] 25                                                     
+                   [ ] 50                                                     
+                   [ ] 100                                                    
+                   [ ] Male and female                                        
+   Gender          [ ] Male                                                   
+                   [ ] Female                                                 
+   Name style      [ ] Common [ ] Average [ ] Rare                            
+                   [ Generate random names ]                                  
+
+Random names
+
+    1. Judith Bailey
