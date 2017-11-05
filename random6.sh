@@ -13,3 +13,5 @@ do
         i=$[$i+1]
         echo -n $n\ \ 
 done
+echo
+
