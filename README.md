@@ -1,1 +1,3 @@
 # bash_1
+A bunch of scripts for playing with twitter...
+ 
