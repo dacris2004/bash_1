@@ -1,4 +1,6 @@
 #!/bin/bash
+echo 6 random numbers between 1 and 49
+
 i=0
 arr=(${array[6]})
 
