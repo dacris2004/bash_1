@@ -1,4 +1,5 @@
 #!/bin/bash
+# comment added for example
 echo 6 random numbers between 1 and 49
 
 i=0
